@@ -4,9 +4,13 @@ a kotlin calculator using Scanner and System (java utils stuff)
 basically it goes like this:
 When you run the program, the output will be:
 
+
 Enter two numbers: 1.5
+
 4.5
+
 Enter an operator (+, -, *, /): *
+
 1.5 * 4.5 = 6.8
 
 The * operator entered by the user is stored in the operator variable using the next() method of Scanner object.
